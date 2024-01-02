@@ -6,13 +6,13 @@ line arguments.
 PC Anaconda - Python 3.7
 ## ALGORITHM:
 ### Step 1:
-import sys module
+Import pandas module as pd
 ### Step 2:
-Using sys module,open a file with read mode
+Read a csv file name cars.csv
 ### Step 3:
-Read the file and split the file and store it in the variable
+print the first five rows and last five rows
 ### Step 4:
-print the length of the variable
+print the length of the rows and columns
 ### Step 5:
 End the program
 ## PROGRAM:
