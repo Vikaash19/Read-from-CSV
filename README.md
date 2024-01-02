@@ -10,7 +10,7 @@ import sys module
 ### Step 2:
 Using sys module,open a file with read mode
 ### Step 3:
-Read the file and split the file and stor in the variable
+Read the file and split the file and store it in the variable
 ### Step 4:
 print the length of the variable
 ### Step 5:
