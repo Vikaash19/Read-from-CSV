@@ -1,7 +1,6 @@
 # Read-from-CSV
 ## AIM:
-To write a python program for getting the word count from the contents of a file using command
-line arguments.
+Write a program to read a csv file.
 ## EQUIPEMENT'S REQUIRED:
 PC Anaconda - Python 3.7
 ## ALGORITHM:
